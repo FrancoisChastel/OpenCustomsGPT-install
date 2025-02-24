@@ -52,6 +52,10 @@ Note: Replace `readonly_user:password` with your read-only PostgreSQL user crede
 docker compose up -d
 ```
 
+7. Access the user interface:
+
+- Open your web browser and navigate to `http://0.0.0.0:8501`
+
 ## Troubleshooting
 
 If you encounter `unauthorized` errors, ensure you have:
