@@ -18,9 +18,9 @@ services:
     networks:
       - app_network
     restart: always
-  ui:
+  opencustoms:
     image: francoischastel/opencustomsgpt:latest
-    container_name: ui
+    container_name: opencustoms
     depends_on:
       - litellm
     env_file:
