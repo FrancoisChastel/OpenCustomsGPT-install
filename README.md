@@ -80,13 +80,13 @@ Plot a clustering for the hscode starting with 1511 for the importers, on their 
 ### Data Extraction
 
 ```txt
-Show me the top 10 importers of HS code 1511 products by volume
+Show me the top 10 importers of starting with HS code 1511 products by volume
 ```
 
 ### Data Analysis
 
 ```txt
-Calculate the average weight per transaction for HS code 1511 products, grouped by importer
+Calculate the average weight per transaction starting with HS code 1511 products, grouped by importer
 ```
 
 ### Data Science
