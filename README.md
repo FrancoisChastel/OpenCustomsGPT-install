@@ -66,3 +66,31 @@ If you encounter `unauthorized` errors, ensure you have:
 ## Support
 
 For access requests or issues, please open a GitHub issue or contact the repository administrators.
+
+## Example Prompts
+
+Here are some example prompts you can use with OpenCustomsGPT:
+
+### Data Visualization
+
+```txt
+Plot a clustering for the hscode starting with 1511 for the importers, on their volume and weight
+```
+
+### Data Extraction
+
+```txt
+Show me the top 10 importers of HS code 1511 products by volume
+```
+
+### Data Analysis
+
+```txt
+Calculate the average weight per transaction for HS code 1511 products, grouped by importer
+```
+
+### Data Science
+
+```txt
+Plot a clustering for the hscode starting with 1511 for the importers, on their volume and weight
+```
