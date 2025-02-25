@@ -11,6 +11,15 @@ This repository contains the necessary configuration to deploy OpenCustomsGPT us
   - Schema `sydonia_mg` containing tables `sad_item` and `sad_gen`
   - A read-only user account for safety (recommended as the system will execute LLM-generated SQL queries)
 
+## Recommended Models
+
+For optimal performance and efficient resource usage, we recommend the following models:
+
+- model-small: Llama-3.2:3b
+- model-coder: Qwen-2.5-Coder:32b
+- model-thinker: Deepseek-r1:14b
+- model-writer: Qwen-2.5:14b
+
 ## Installation Steps
 
 1. Clone this repository:
