@@ -1,7 +1,7 @@
 model_list:
   - model_name: model-coder
     litellm_params:
-      model: openai/gpt-4o
+      model: openai/o1-mini
       api_key: os.environ/OPENAI_API_KEY
   - model_name: model-writer
     litellm_params:
